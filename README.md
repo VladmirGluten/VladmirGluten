@@ -2,7 +2,7 @@
 - I am vladmir gluten
 - im gonna code stuff with ai
 - I made a website called Hobobox.ai 
-(https://playcode.io/2395277)
+  (https://hobobox_ai.playcode.io/))
 - I am man
 - ⚡ Fun fact: the missile knows where it is at all times
 
